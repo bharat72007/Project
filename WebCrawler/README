@@ -1,0 +1,15 @@
+Author : Bharat Jain
+
+Code Description:
+1)Driver Class : Init.java
+2)Core Class: Bot.java
+
+Custom Exceptions:
+1)InvalidURLException.java
+2)InvalidMaxPagesCount.java
+
+Unit Test Class:
+TestCrawler.java
+
+NOTE : For Data Scraping of Html File, JSOUP Utility is being Used.
+
